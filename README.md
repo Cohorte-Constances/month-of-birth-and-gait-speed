@@ -1,6 +1,6 @@
 # Month of birth and gait speed
 
-This repository contains the SAS 9.4 programs used for the statistical analyses in the article on the association between month of birth and gait speed.
+This repository contains the SAS 9.4 programs used for the statistical analyses in the article : Month of birth and gait speed in adulthood: evidence in favour of a lasting relative age effect
 
 ---
 
