@@ -246,6 +246,7 @@ run;
 proc surveyselect data= analysis out=analysis_boot
      seed = 4698 method = urs
 	 samprate = 1 outhits rep = 500 ;
+	 strata _Imputation_ ; 
 run;
 
 /* 	
